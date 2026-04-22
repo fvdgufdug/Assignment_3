@@ -29,4 +29,4 @@ This project implements and compares the performance of Bubble Sort, Merge Sort,
 4. **Big-O Match:** Yes, the results match theoretical expectations.
 
 ## conclusion
-I learned that while Bubble Sort is easy to implement, it becomes highly inefficient as data grows. Understanding the difference between theoretical Big-O and practical execution time is crucial for software development.
+ learned that while Bubble Sort is easy to implement, it becomes highly inefficient as data grows. Understanding the difference between theoretical Big-O and practical execution time is crucial for software development.
