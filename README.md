@@ -20,7 +20,8 @@ This project implements and compares the performance of Bubble Sort, Merge Sort,
 | 100 (Med)  | Sorted    | 78291            | 50958           | 1250               |
 | 1000 (Lrg) | Random    | 2988125          | 272792          | 8125               |
 | 1000 (Lrg) | Sorted    | 1063250          | 51208           | 8125               |
-![Experimental Results](docs/screenshots/Снимок экрана 2026-04-21 в 20.26.02.png)
+
+![Experimental Results](docs/screenshots/table.png)
 ## Analysis Questions 
 1. **Which sorting algorithm was faster?** On small arrays, Bubble Sort was slightly faster due to low overhead. However, on the Large (1000) array, Merge Sort was about 10 times faster than Bubble Sort.
 2. **How does performance change with size?** Bubble Sort's time grows quadratically (O(n^2)), while Merge Sort grows much slower (O(n \log n)), making it superior for large data.
